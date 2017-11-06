@@ -19,6 +19,7 @@ body {
 
 img {
   vertical-align: middle;
+
 }
 
 .container {
@@ -56,10 +57,7 @@ img {
   margin: 0px;
 }
 
-a {
-  color: #373B47;
-  text-decoration: none;
-}
+
 
 a:hover {
   color: #E95853;
@@ -69,5 +67,82 @@ a:hover {
   text-transform: uppercase;
 }
 
-/*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
+/**/
+ 
 
+}
+ ul li{
+  margin-right: 12px;
+}
+
+li{
+ 
+  text-transform: uppercase;
+  color:black;
+  margin-left: 10px;
+  list-style: none;
+  font-size: 16px;
+  display:inline-block;
+  margin-top: 20px;
+  outline: 1px solid red;
+  float:left;
+  margin-left: 50px;
+  position: static;
+}
+.logo1 img{
+  width: 70px;
+  height: 70px;
+  outline: 1px solid red;
+  float:left;
+  margin-left:700px;
+  position: static;
+}
+.seccion1 h2{
+  text-transform: uppercase;
+  color:white;
+  font-size: 15px;
+  outline: 1px solid red;
+  display: inline-block; 
+  position: relative;
+  bottom: 530px;
+  left: 560px;
+  font-family: "raleway";
+}
+.seccion1 h1{
+  text-transform: uppercase;
+  color:white;
+  font-size: 40px;
+  outline: 1px solid red;
+  display: inline-block; 
+  position: relative;
+  bottom: 460px;
+  left: 100px;
+  font-family: "raleway";
+}
+.seccion1 p{
+  text-transform: uppercase;
+  color:white;
+  font-size: 13px;
+  outline: 1px solid red;
+  display: inline-block; 
+  position: relative;
+  bottom: 400px;
+  right: 450px;
+  font-family: "raleway";
+}
+.botom1{
+  font-size: 14px;
+  outline: 1px solid red;
+  display: inline-block; 
+  position: relative;
+  bottom: 300px;
+  left: 630px;
+  font-family: "raleway";
+  border-radius: 3px;
+  background:#00FF7F;
+  color:white;
+  text-decoration: none;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+}
